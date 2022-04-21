@@ -20,4 +20,4 @@ for i in range(1, basenumber + 1):
         perfectnums.append(i)
 print(perfectnums)
 
-#visual studio code is better
+#test if edits sync to vscode
