@@ -20,4 +20,4 @@ for i in range(1, basenumber + 1):
         perfectnums.append(i)
 print(perfectnums)
 
-#it does, now checking if edits sync to vs2019
+
